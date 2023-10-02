@@ -44,7 +44,7 @@ nandha.command("help", async (ctx) => {
 });
 
 nandha.launch();
-console.log("=> GABIMARU-BOT has been Launched!");
+console.log("=> prince goku-BOT has been Launched!");
 
 // Enable graceful stop
 process.once('SIGINT', () => nandha.stop('SIGINT'));
