@@ -9,7 +9,7 @@
          "manager", 
          "goku", 
       ],   
-   "repository": "https://github.com/Darklightning2008/Manger",
+   "repository": "https://github.com/ashui501/Prince-Goku_robot",
    "stack": "heroku-22",
    "addons": [
       {
